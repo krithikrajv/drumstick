@@ -1,0 +1,23 @@
+*{
+    background-color: brown;
+}
+.drum{
+    margin-left: 40%;
+    font-size: 30px;
+}
+.hello{
+    height: 100px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    margin-right: 70%;
+}
+.a{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 70px;
+    padding: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
